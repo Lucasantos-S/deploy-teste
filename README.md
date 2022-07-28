@@ -11,7 +11,7 @@
 
 
 <p align="center" margin-top="25px" >
-<a href="https://vercel.com/lucasantos-s/deploy-teste/At8SJYS4uQ6qDyGttkLvsDq6D864" target="_blank">Confira o projeto clicando aqui</a>
+<a href="https://deploy-teste-enm3zak55-lucasantos-s.vercel.app/" target="_blank">Confira o projeto clicando aqui</a>
 </p>
 
 ## 🏃‍♂️Jornada
@@ -25,7 +25,7 @@ O foco é no aprendizado da linguagem, mas a principal aplicação e o React-rou
 Esse projeto foi desenvolvido com a seguintes tecnologia:
 
 - [React.js ](https://reactjs.org/)
-- [React-router-DOM ](https://deploy-teste-enm3zak55-lucasantos-s.vercel.app/)
+- [React-router-DOM ](https://v5.reactrouter.com/web/guides/quick-start)
 
 
 ## ⚙️ Como executar
