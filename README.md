@@ -25,7 +25,7 @@ O foco é no aprendizado da linguagem, mas a principal aplicação e o React-rou
 Esse projeto foi desenvolvido com a seguintes tecnologia:
 
 - [React.js ](https://reactjs.org/)
-- [React-router-DOM ](https://v5.reactrouter.com/web/guides/quick-start)
+- [React-router-DOM ](https://deploy-teste-enm3zak55-lucasantos-s.vercel.app/)
 
 
 ## ⚙️ Como executar
